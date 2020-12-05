@@ -773,7 +773,11 @@ a:hover
     border-radius: 100px;
 }
 
-
+#CV
+{
+    font-size: 1.8rem;
+    font-family: 'Abril Fatface', cursive;
+}
 
 
 
